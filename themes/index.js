@@ -369,4 +369,11 @@ export const themes = {
   },
 };
 
+Ok_computer: {
+title_color:"#12519e";
+icon_color:"#0000";
+text-color:"#84aebe";
+ bg_color:"#f8fdff";   
+},
+  
 export default themes;
